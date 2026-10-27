@@ -1,0 +1,12 @@
+{
+  "launcher": {
+    "versao": "1.2.0",
+    "version": "1.2.0",
+    "url": "https://github.com/jejeposao/blacklotus-launcher/releases/download/v1.2.0/BlackLotusLauncher.exe",
+    "sha256": "b37440f5cebc8a1fc0671e9c7a5b261ff660c3fe1096f6069bcf83e56228a963",
+    "sha1": "0fe59c3ad6b7ed7798ad12145a42949f336478df",
+    "obrigatoria": false,
+    "novidades": "Nova aba Modrinth: mods, resource packs, shaders e modpacks\nInstalar vários ao mesmo tempo, com barra de progresso\nJanela maior e redimensionável",
+    "notes": ["Nova aba Modrinth: mods, resource packs, shaders e modpacks", "Instalar vários ao mesmo tempo, com barra de progresso", "Janela maior e redimensionável"]
+  }
+}
