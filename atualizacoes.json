@@ -1,4 +1,5 @@
 {
+  "relay": "wss://blacklotus-relay.onrender.com",
   "launcher": {
     "versao": "1.2.0",
     "version": "1.2.0",
