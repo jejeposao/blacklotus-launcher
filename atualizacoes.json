@@ -1,31 +1,32 @@
 {
   "relay": "wss://blacklotus-relay.onrender.com",
   "launcher": {
-    "versao": "1.2.0",
-    "version": "1.2.0",
-    "url": "https://github.com/jejeposao/blacklotus-launcher/releases/download/v1.2.0/BlackLotusLauncher.exe",
-    "sha256": "b37440f5cebc8a1fc0671e9c7a5b261ff660c3fe1096f6069bcf83e56228a963",
-    "sha1": "0fe59c3ad6b7ed7798ad12145a42949f336478df",
+    "versao": "1.3.0",
+    "version": "1.3.0",
+    "url": "https://github.com/jejeposao/blacklotus-launcher/releases/download/v1.3.0/BlackLotusLauncher.exe",
+    "sha256": "389167c15226750c67ef992cbdc4aae7830754b8c976408f51ba184656dd7bc7",
+    "sha1": "0ce9821377a40411d92eca72d62504198af1df56",
     "obrigatoria": false,
-    "novidades": "Nova aba Modrinth: mods, resource packs, shaders e modpacks\nInstalar vários ao mesmo tempo, com barra de progresso\nJanela maior e redimensionável",
+    "novidades": "Abre o jogo bem mais rápido: não confere todos os arquivos a cada JOGAR\nModrinth em paralelo, Java ajustado e ModernFix ligado na 1.20.1\nMostra quanto tempo o jogo levou para abrir\nNovo botão Reparar instalação nas Configurações",
     "notes": [
-      "Nova aba Modrinth: mods, resource packs, shaders e modpacks",
-      "Instalar vários ao mesmo tempo, com barra de progresso",
-      "Janela maior e redimensionável"
+      "Abre o jogo bem mais rápido: não confere todos os arquivos a cada JOGAR",
+      "Modrinth em paralelo, Java ajustado e ModernFix ligado na 1.20.1",
+      "Mostra quanto tempo o jogo levou para abrir",
+      "Novo botão Reparar instalação nas Configurações"
     ]
   },
   "clients": {
     "1.20.1": {
-      "version": "1.3.4",
-      "url": "https://github.com/jejeposao/blacklotus-launcher/releases/download/client-1.20.1-v1.3.4/blacklotus-client-1.3.4.jar",
-      "sha1": "66499018074b5d622670a33c020e736b5de1639a",
-      "notes": "Fullbright (com lista de servidores bloqueados) e emote Solzinho com jingle original."
+      "version": "1.3.5",
+      "url": "https://github.com/jejeposao/blacklotus-launcher/releases/download/client-1.20.1-v1.3.5/blacklotus-client-1.3.5.jar",
+      "sha1": "7099b2ab7a7a1a5b2502c7048c14ebb14a92ab53",
+      "notes": "Mostra o tempo de abertura na tela inicial."
     },
     "1.8.9": {
-      "version": "1.3.2",
-      "url": "https://github.com/jejeposao/blacklotus-launcher/releases/download/client-1.8.9-v1.3.2/blacklotus-client-1.8.9-1.3.2.jar",
-      "sha1": "eddcf9d37231bca8830973b1efb6ce8880d7060a",
-      "notes": "Fullbright (com lista de servidores bloqueados) e emote Solzinho com jingle original."
+      "version": "1.3.3",
+      "url": "https://github.com/jejeposao/blacklotus-launcher/releases/download/client-1.8.9-v1.3.3/blacklotus-client-1.8.9-1.3.3.jar",
+      "sha1": "7c10970c8680383ecf408c03aa3d41587bb75c10",
+      "notes": "Mostra o tempo de abertura na tela inicial."
     }
   }
 }
