@@ -16,16 +16,16 @@
   },
   "clients": {
     "1.20.1": {
-      "version": "1.3.3",
-      "url": "https://github.com/jejeposao/blacklotus-launcher/releases/download/client-1.20.1-v1.3.3/blacklotus-client-1.3.3.jar",
-      "sha1": "9ca1233b87ba3c827c06a2ec044c7acf87c819e5",
-      "notes": "Futebol com dribles e todo gol contando, campo e quadra novos, cesta de 3 e cestas seguidas no basquete."
+      "version": "1.3.4",
+      "url": "https://github.com/jejeposao/blacklotus-launcher/releases/download/client-1.20.1-v1.3.4/blacklotus-client-1.3.4.jar",
+      "sha1": "66499018074b5d622670a33c020e736b5de1639a",
+      "notes": "Fullbright (com lista de servidores bloqueados) e emote Solzinho com jingle original."
     },
     "1.8.9": {
-      "version": "1.3.1",
-      "url": "https://github.com/jejeposao/blacklotus-launcher/releases/download/client-1.8.9-v1.3.1/blacklotus-client-1.8.9-1.3.1.jar",
-      "sha1": "810a8c3ff116469887e162cc56017e15cdf28bd7",
-      "notes": "Futebol com dribles e todo gol contando, campo e quadra novos, cesta de 3 e cestas seguidas no basquete."
+      "version": "1.3.2",
+      "url": "https://github.com/jejeposao/blacklotus-launcher/releases/download/client-1.8.9-v1.3.2/blacklotus-client-1.8.9-1.3.2.jar",
+      "sha1": "eddcf9d37231bca8830973b1efb6ce8880d7060a",
+      "notes": "Fullbright (com lista de servidores bloqueados) e emote Solzinho com jingle original."
     }
   }
 }
