@@ -16,24 +16,16 @@
   },
   "clients": {
     "1.20.1": {
-      "version": "1.3.1",
-      "url": "https://github.com/jejeposao/blacklotus-launcher/releases/download/client-1.20.1-v1.3.1/blacklotus-client-1.3.1.jar",
-      "sha1": "115a83e3690211a5e07448a485ef30ee57cc4993",
-      "notes": [
-        "Corrigido: shift-click no inventário/mesa de trabalho e o agachar com o inventário aberto",
-        "Mira nova: suave, 8 presets e editor para desenhar a sua (com código para trocar)",
-        "Tema KYO (vermelho) em Configurações > Tema",
-        "Minigames com quem usa o client: basquete, futebol, pedra-papel-tesoura e jogo da velha (tecla G)",
-        "Selo do client, emotes (tecla B) e efeito de kill"
-      ]
+      "version": "1.3.2",
+      "url": "https://github.com/jejeposao/blacklotus-launcher/releases/download/client-1.20.1-v1.3.2/blacklotus-client-1.3.2.jar",
+      "sha1": "dd0494f20101f3858802c0d66601fa09122f4fc3",
+      "notes": "Minigames, selo e emotes conectam sozinhos, indicador Online no menu e No Hurt Cam."
     },
     "1.8.9": {
-      "version": "1.2.1",
-      "url": "https://github.com/jejeposao/blacklotus-launcher/releases/download/client-1.8.9-v1.2.1/blacklotus-client-1.8.9-1.2.1.jar",
-      "sha1": "37c65e163f9cf4d0f6f899fea166385d2fbd00d1",
-      "notes": [
-        "Corrigido: shift-click no inventário/mesa de trabalho e o agachar com o inventário aberto"
-      ]
+      "version": "1.3",
+      "url": "https://github.com/jejeposao/blacklotus-launcher/releases/download/client-1.8.9-v1.3/blacklotus-client-1.8.9-1.3.jar",
+      "sha1": "8dea6572fc3bf856f95bbd368b71fe607f5182c9",
+      "notes": "Tema KYO, mira nova com editor, minigames, selo, emotes, efeito de kill e No Hurt Cam."
     }
   }
 }
