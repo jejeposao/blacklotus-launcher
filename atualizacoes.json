@@ -1,26 +1,26 @@
 {
   "relay": "wss://blacklotus-relay.onrender.com",
   "launcher": {
-    "versao": "1.3.1",
-    "version": "1.3.1",
-    "url": "https://github.com/jejeposao/blacklotus-launcher/releases/download/v1.3.1/BlackLotusLauncher.exe",
-    "sha256": "90c7d7dc9e6ce721f2db0bae72048f96c5e35c649ea986de3800e7d0b83fbcb9",
-    "sha1": "a574535cfdec8f151a87b418b071b69e57c7909c",
+    "versao": "1.3.3",
+    "version": "1.3.3",
+    "url": "https://github.com/jejeposao/blacklotus-launcher/releases/download/v1.3.3/BlackLotusLauncher.exe",
+    "sha256": "1b8f55c8c36b82c127f5a220e961a8b73981f14e31b1c688cad936e3656b7874",
+    "sha1": "b76d96de489d05f2247fc7edfa9c4b0d2942d292",
     "obrigatoria": false,
-    "novidades": "Modo Evento: mais FPS com muita gente junta (liga sozinho)\n1.8.9: jogadores atrás de blocos não são desenhados\nPreset Evento nas opções de vídeo, com botão de voltar\nEntity Culling sempre ligado na 1.20.1",
+    "novidades": "Mods extras de FPS na 1.20.1: BadOptimizations e Enhanced Block Entities (dá pra desligar)\nJogadores longe mais leves (4 níveis de detalhe) e nomes em cache no Modo Evento\nPreset Evento completo, placar e Tab em cache\nJava 21 e ZGC experimentais nas Configurações",
     "notes": [
-      "Modo Evento: mais FPS com muita gente junta (liga sozinho)",
-      "1.8.9: jogadores atrás de blocos não são desenhados",
-      "Preset Evento nas opções de vídeo, com botão de voltar",
-      "Entity Culling sempre ligado na 1.20.1"
+      "Mods extras de FPS na 1.20.1: BadOptimizations e Enhanced Block Entities (dá pra desligar)",
+      "Jogadores longe mais leves (4 níveis de detalhe) e nomes em cache no Modo Evento",
+      "Preset Evento completo, placar e Tab em cache",
+      "Java 21 e ZGC experimentais nas Configurações"
     ]
   },
   "clients": {
     "1.20.1": {
-      "version": "1.3.6",
-      "url": "https://github.com/jejeposao/blacklotus-launcher/releases/download/client-1.20.1-v1.3.6/blacklotus-client-1.3.6.jar",
-      "sha1": "515ce3db391535a84c24653a5da5de0db72d28a9",
-      "notes": "Modo Evento (mais FPS com muita gente) e Preset Evento."
+      "version": "1.3.7",
+      "url": "https://github.com/jejeposao/blacklotus-launcher/releases/download/client-1.20.1-v1.3.7/blacklotus-client-1.3.7.jar",
+      "sha1": "8efdd38ac46c25bbc8f5e16a57bdda67bfffab81",
+      "notes": "LOD de jogadores, nomes em cache, partículas de golpe dos outros escondidas e Preset Evento completo."
     },
     "1.8.9": {
       "version": "1.3.4",
