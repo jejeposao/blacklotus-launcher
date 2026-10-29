@@ -1,32 +1,32 @@
 {
   "relay": "wss://blacklotus-relay.onrender.com",
   "launcher": {
-    "versao": "1.3.0",
-    "version": "1.3.0",
-    "url": "https://github.com/jejeposao/blacklotus-launcher/releases/download/v1.3.0/BlackLotusLauncher.exe",
-    "sha256": "389167c15226750c67ef992cbdc4aae7830754b8c976408f51ba184656dd7bc7",
-    "sha1": "0ce9821377a40411d92eca72d62504198af1df56",
+    "versao": "1.3.1",
+    "version": "1.3.1",
+    "url": "https://github.com/jejeposao/blacklotus-launcher/releases/download/v1.3.1/BlackLotusLauncher.exe",
+    "sha256": "90c7d7dc9e6ce721f2db0bae72048f96c5e35c649ea986de3800e7d0b83fbcb9",
+    "sha1": "a574535cfdec8f151a87b418b071b69e57c7909c",
     "obrigatoria": false,
-    "novidades": "Abre o jogo bem mais rápido: não confere todos os arquivos a cada JOGAR\nModrinth em paralelo, Java ajustado e ModernFix ligado na 1.20.1\nMostra quanto tempo o jogo levou para abrir\nNovo botão Reparar instalação nas Configurações",
+    "novidades": "Modo Evento: mais FPS com muita gente junta (liga sozinho)\n1.8.9: jogadores atrás de blocos não são desenhados\nPreset Evento nas opções de vídeo, com botão de voltar\nEntity Culling sempre ligado na 1.20.1",
     "notes": [
-      "Abre o jogo bem mais rápido: não confere todos os arquivos a cada JOGAR",
-      "Modrinth em paralelo, Java ajustado e ModernFix ligado na 1.20.1",
-      "Mostra quanto tempo o jogo levou para abrir",
-      "Novo botão Reparar instalação nas Configurações"
+      "Modo Evento: mais FPS com muita gente junta (liga sozinho)",
+      "1.8.9: jogadores atrás de blocos não são desenhados",
+      "Preset Evento nas opções de vídeo, com botão de voltar",
+      "Entity Culling sempre ligado na 1.20.1"
     ]
   },
   "clients": {
     "1.20.1": {
-      "version": "1.3.5",
-      "url": "https://github.com/jejeposao/blacklotus-launcher/releases/download/client-1.20.1-v1.3.5/blacklotus-client-1.3.5.jar",
-      "sha1": "7099b2ab7a7a1a5b2502c7048c14ebb14a92ab53",
-      "notes": "Mostra o tempo de abertura na tela inicial."
+      "version": "1.3.6",
+      "url": "https://github.com/jejeposao/blacklotus-launcher/releases/download/client-1.20.1-v1.3.6/blacklotus-client-1.3.6.jar",
+      "sha1": "515ce3db391535a84c24653a5da5de0db72d28a9",
+      "notes": "Modo Evento (mais FPS com muita gente) e Preset Evento."
     },
     "1.8.9": {
-      "version": "1.3.3",
-      "url": "https://github.com/jejeposao/blacklotus-launcher/releases/download/client-1.8.9-v1.3.3/blacklotus-client-1.8.9-1.3.3.jar",
-      "sha1": "7c10970c8680383ecf408c03aa3d41587bb75c10",
-      "notes": "Mostra o tempo de abertura na tela inicial."
+      "version": "1.3.4",
+      "url": "https://github.com/jejeposao/blacklotus-launcher/releases/download/client-1.8.9-v1.3.4/blacklotus-client-1.8.9-1.3.4.jar",
+      "sha1": "adcba457262ca2833c0961a0a32a0cb8760e1c3f",
+      "notes": "Modo Evento, culling de jogadores atrás de blocos e Preset Evento."
     }
   }
 }
