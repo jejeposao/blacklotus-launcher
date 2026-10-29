@@ -17,10 +17,10 @@
   },
   "clients": {
     "1.20.1": {
-      "version": "1.3.7",
-      "url": "https://github.com/jejeposao/blacklotus-launcher/releases/download/client-1.20.1-v1.3.7/blacklotus-client-1.3.7.jar",
-      "sha1": "8efdd38ac46c25bbc8f5e16a57bdda67bfffab81",
-      "notes": "LOD de jogadores, nomes em cache, partículas de golpe dos outros escondidas e Preset Evento completo."
+      "version": "1.3.9",
+      "url": "https://github.com/jejeposao/blacklotus-launcher/releases/download/client-1.20.1-v1.3.9/blacklotus-client-1.3.9.jar",
+      "sha1": "e5ed4d2b9f6160c9325c9d8c8f5d81316e70a382",
+      "notes": "Personagens Evento (tecla J), FPS Boost EXTREMO e nova tela inicial Dark Neon."
     },
     "1.8.9": {
       "version": "1.3.4",
