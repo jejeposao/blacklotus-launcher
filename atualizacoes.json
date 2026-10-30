@@ -17,10 +17,10 @@
   },
   "clients": {
     "1.20.1": {
-      "version": "1.4.0",
-      "url": "https://github.com/jejeposao/blacklotus-launcher/releases/download/client-1.20.1-v1.4.0/blacklotus-client-1.4.0.jar",
-      "sha1": "1181df796b1d0847b9965ba6d161fe91858a4bd8",
-      "notes": "Medidor de desempenho (F6 mostra, F7 copia) e client mais leve."
+      "version": "1.4.1",
+      "url": "https://github.com/jejeposao/blacklotus-launcher/releases/download/client-1.20.1-v1.4.1/blacklotus-client-1.4.1.jar",
+      "sha1": "0c506ced7d6a9e7e0a32c84a5246df40e4b3761c",
+      "notes": "Personagens Evento: tela nova em grade (tecla K), com busca, prévia 3D, créditos e animações."
     },
     "1.8.9": {
       "version": "1.3.4",
