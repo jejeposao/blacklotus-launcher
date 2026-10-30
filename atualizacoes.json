@@ -1,32 +1,32 @@
 {
-  "relay": "wss://blacklotus-relay.onrender.com",
-  "launcher": {
-    "versao": "1.3.3",
-    "version": "1.3.3",
-    "url": "https://github.com/jejeposao/blacklotus-launcher/releases/download/v1.3.3/BlackLotusLauncher.exe",
-    "sha256": "1b8f55c8c36b82c127f5a220e961a8b73981f14e31b1c688cad936e3656b7874",
-    "sha1": "b76d96de489d05f2247fc7edfa9c4b0d2942d292",
-    "obrigatoria": false,
-    "novidades": "Mods extras de FPS na 1.20.1: BadOptimizations e Enhanced Block Entities (dá pra desligar)\nJogadores longe mais leves (4 níveis de detalhe) e nomes em cache no Modo Evento\nPreset Evento completo, placar e Tab em cache\nJava 21 e ZGC experimentais nas Configurações",
-    "notes": [
-      "Mods extras de FPS na 1.20.1: BadOptimizations e Enhanced Block Entities (dá pra desligar)",
-      "Jogadores longe mais leves (4 níveis de detalhe) e nomes em cache no Modo Evento",
-      "Preset Evento completo, placar e Tab em cache",
-      "Java 21 e ZGC experimentais nas Configurações"
-    ]
-  },
-  "clients": {
-    "1.20.1": {
-      "version": "1.4.2",
-      "url": "https://github.com/jejeposao/blacklotus-launcher/releases/download/client-1.20.1-v1.4.2/blacklotus-client-1.4.2.jar",
-      "sha1": "eee89d0fbde800e9f5453260490bc1db6355aa6d",
-      "notes": "Personagens: armas temáticas na mão (só visual, dá pra desligar)."
-    },
-    "1.8.9": {
-      "version": "1.3.4",
-      "url": "https://github.com/jejeposao/blacklotus-launcher/releases/download/client-1.8.9-v1.3.4/blacklotus-client-1.8.9-1.3.4.jar",
-      "sha1": "adcba457262ca2833c0961a0a32a0cb8760e1c3f",
-      "notes": "Modo Evento, culling de jogadores atrás de blocos e Preset Evento."
-    }
-  }
+    "relay":  "wss://blacklotus-relay.onrender.com",
+    "launcher":  {
+                     "versao":  "1.3.3",
+                     "version":  "1.3.3",
+                     "url":  "https://github.com/jejeposao/blacklotus-launcher/releases/download/v1.3.3/BlackLotusLauncher.exe",
+                     "sha256":  "1b8f55c8c36b82c127f5a220e961a8b73981f14e31b1c688cad936e3656b7874",
+                     "sha1":  "b76d96de489d05f2247fc7edfa9c4b0d2942d292",
+                     "obrigatoria":  false,
+                     "novidades":  "Mods extras de FPS na 1.20.1: BadOptimizations e Enhanced Block Entities (dá pra desligar)\nJogadores longe mais leves (4 níveis de detalhe) e nomes em cache no Modo Evento\nPreset Evento completo, placar e Tab em cache\nJava 21 e ZGC experimentais nas Configurações",
+                     "notes":  [
+                                   "Mods extras de FPS na 1.20.1: BadOptimizations e Enhanced Block Entities (dá pra desligar)",
+                                   "Jogadores longe mais leves (4 níveis de detalhe) e nomes em cache no Modo Evento",
+                                   "Preset Evento completo, placar e Tab em cache",
+                                   "Java 21 e ZGC experimentais nas Configurações"
+                               ]
+                 },
+    "clients":  {
+                    "1.20.1":  {
+                                   "version":  "1.4.3",
+                                   "url":  "https://github.com/jejeposao/blacklotus-launcher/releases/download/client-1.20.1-v1.4.3/blacklotus-client-1.4.3.jar",
+                                   "sha1":  "27afcb2b4118490cc19679de560290f9070d5c70",
+                                   "notes":  "Corrige o Modo Evento: o culling usa o frustum do WorldRenderer e os caches de distância e visibilidade tratam corretamente jogadores fora do cache."
+                               },
+                    "1.8.9":  {
+                                  "version":  "1.3.4",
+                                  "url":  "https://github.com/jejeposao/blacklotus-launcher/releases/download/client-1.8.9-v1.3.4/blacklotus-client-1.8.9-1.3.4.jar",
+                                  "sha1":  "adcba457262ca2833c0961a0a32a0cb8760e1c3f",
+                                  "notes":  "Modo Evento, culling de jogadores atrás de blocos e Preset Evento."
+                              }
+                }
 }
