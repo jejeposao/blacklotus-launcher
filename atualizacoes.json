@@ -1,16 +1,16 @@
 {
   "relay": "wss://blacklotus-relay.onrender.com",
   "launcher": {
-    "versao": "1.3.6",
-    "version": "1.3.6",
-    "url": "https://github.com/jejeposao/blacklotus-launcher/releases/download/v1.3.6/BlackLotusLauncher.exe",
-    "sha256": "571f28d68daa00217c1dff3e285f856478c538747626a39b7f6d894522299061",
-    "sha1": "2a607fb144c4597d2ffbf5afbca3f40c512a3cd8",
+    "versao": "1.3.7",
+    "version": "1.3.7",
+    "url": "https://github.com/jejeposao/blacklotus-launcher/releases/download/v1.3.7/BlackLotusLauncher.exe",
+    "sha256": "7549e05cc67d6a476a9b668aa5a73d3835600611517d53dfef70cf4e3df173e5",
+    "sha1": "925fe1f78fc88537b58013290eea3e45a7c938b3",
     "obrigatoria": false,
-    "novidades": "Corrige erro que impedia o launcher de iniciar. Inclui o client 1.20.1 v1.4.5.",
+    "novidades": "Corrige a falha de inicialização do launcher e atualiza a identificação da versão.",
     "notes": [
-      "Corrige uma cor hexadecimal inválida no XAML que impedia a inicialização.",
-      "Inclui o client 1.20.1 v1.4.5."
+      "Corrige a cor inválida no XAML que impedia a abertura.",
+      "Ajusta a identificação interna da versão e a checagem de atualizações."
     ]
   },
   "clients": {
