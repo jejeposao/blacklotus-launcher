@@ -1,24 +1,24 @@
 {
   "relay": "wss://blacklotus-relay.onrender.com",
   "launcher": {
-    "versao": "1.3.4",
-    "version": "1.3.4",
-    "url": "https://github.com/jejeposao/blacklotus-launcher/releases/download/v1.3.4/BlackLotusLauncher.exe",
-    "sha256": "5e1c3e97511cee5ec83734d1188389b68d7d7552863ceedee33496c8efb14738",
-    "sha1": "44f08fec5f75e4d92442e2d953d470b90e269423",
+    "versao": "1.3.5",
+    "version": "1.3.5",
+    "url": "https://github.com/jejeposao/blacklotus-launcher/releases/download/v1.3.5/BlackLotusLauncher.exe",
+    "sha256": "202d169f462e7dc251251a83fd237d32c19e0d2da330fd21938f529e094876b3",
+    "sha1": "7e36fbc41fbc15a889b27e6b0559b8991b35c5ed",
     "obrigatoria": false,
-    "novidades": "Nova área Profiles → Profile Membros, mostrando skin e nome dos membros que autorizaram o compartilhamento.\nCompartilhamento opcional de configurações, salvamento automático quando houver mudanças e opção de revogar e apagar a profile.",
+    "novidades": "Redesign visual dark premium do launcher e do menu de módulos do client, com o client 1.20.1 v1.4.5 incluído.",
     "notes": [
-      "Nova área Profiles → Profile Membros, mostrando skin e nome dos membros que autorizaram o compartilhamento.",
-      "Compartilhamento opcional de configurações, salvamento automático quando houver mudanças e opção de revogar e apagar a profile."
+      "Redesign dark premium do launcher e navegação visual refinada.",
+      "Menu de módulos do client com barra lateral de categorias e cartões reorganizados."
     ]
   },
   "clients": {
     "1.20.1": {
-      "version": "1.4.4",
-      "url": "https://github.com/jejeposao/blacklotus-launcher/releases/download/client-1.20.1-v1.4.4/blacklotus-client-1.4.4.jar",
-      "sha1": "a034dd4b5bf10ea34a9281f564dc6cbafaab34dd",
-      "notes": "Profiles dos membros: consentimento opcional, sincronização de configurações alteradas e revogação do compartilhamento."
+      "version": "1.4.5",
+      "url": "https://github.com/jejeposao/blacklotus-launcher/releases/download/client-1.20.1-v1.4.5/blacklotus-client-1.4.5.jar",
+      "sha1": "8fb7e046a25f4e2c8c3e14d7dea96ce33de504bd",
+      "notes": "Redesign do menu de módulos com categorias laterais e cartões reorganizados."
     },
     "1.8.9": {
       "version": "1.3.4",
