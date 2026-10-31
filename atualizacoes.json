@@ -1,16 +1,16 @@
 {
   "relay": "wss://blacklotus-relay.onrender.com",
   "launcher": {
-    "versao": "1.3.5",
-    "version": "1.3.5",
-    "url": "https://github.com/jejeposao/blacklotus-launcher/releases/download/v1.3.5/BlackLotusLauncher.exe",
-    "sha256": "202d169f462e7dc251251a83fd237d32c19e0d2da330fd21938f529e094876b3",
-    "sha1": "7e36fbc41fbc15a889b27e6b0559b8991b35c5ed",
+    "versao": "1.3.6",
+    "version": "1.3.6",
+    "url": "https://github.com/jejeposao/blacklotus-launcher/releases/download/v1.3.6/BlackLotusLauncher.exe",
+    "sha256": "571f28d68daa00217c1dff3e285f856478c538747626a39b7f6d894522299061",
+    "sha1": "2a607fb144c4597d2ffbf5afbca3f40c512a3cd8",
     "obrigatoria": false,
-    "novidades": "Redesign visual dark premium do launcher e do menu de módulos do client, com o client 1.20.1 v1.4.5 incluído.",
+    "novidades": "Corrige erro que impedia o launcher de iniciar. Inclui o client 1.20.1 v1.4.5.",
     "notes": [
-      "Redesign dark premium do launcher e navegação visual refinada.",
-      "Menu de módulos do client com barra lateral de categorias e cartões reorganizados."
+      "Corrige uma cor hexadecimal inválida no XAML que impedia a inicialização.",
+      "Inclui o client 1.20.1 v1.4.5."
     ]
   },
   "clients": {
