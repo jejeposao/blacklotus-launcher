@@ -1,16 +1,17 @@
 {
   "relay": "wss://blacklotus-relay.onrender.com",
   "launcher": {
-    "versao": "1.3.7",
-    "version": "1.3.7",
-    "url": "https://github.com/jejeposao/blacklotus-launcher/releases/download/v1.3.7/BlackLotusLauncher.exe",
-    "sha256": "7549e05cc67d6a476a9b668aa5a73d3835600611517d53dfef70cf4e3df173e5",
-    "sha1": "925fe1f78fc88537b58013290eea3e45a7c938b3",
+    "versao": "1.3.8",
+    "version": "1.3.8",
+    "url": "https://github.com/jejeposao/blacklotus-launcher/releases/download/v1.3.8/BlackLotusLauncher.exe",
+    "sha256": "b272ddd99416598fb4e44b4106700df3fd7fd3ebdeee039551ad233e6ffe9306",
+    "sha1": "05d5495cb8f872c996888ba94c03d7de484b710f",
     "obrigatoria": false,
-    "novidades": "Corrige a falha de inicialização do launcher e atualiza a identificação da versão.",
+    "novidades": "Redesign visível do launcher com navegação lateral e tela inicial reorganizada.",
     "notes": [
-      "Corrige a cor inválida no XAML que impedia a abertura.",
-      "Ajusta a identificação interna da versão e a checagem de atualizações."
+      "Barra lateral com Início, Profiles, Biblioteca de mods e Configurações.",
+      "Área principal reorganizada e botão Jogar redimensionado.",
+      "Corrige o erro de inicialização e registra a versão correta."
     ]
   },
   "clients": {
