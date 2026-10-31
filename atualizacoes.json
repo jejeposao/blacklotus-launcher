@@ -1,24 +1,25 @@
 {
   "relay": "wss://blacklotus-relay.onrender.com",
   "launcher": {
-    "versao": "1.3.9",
-    "version": "1.3.9",
-    "url": "https://github.com/jejeposao/blacklotus-launcher/releases/download/v1.3.9/BlackLotusLauncher.exe",
-    "sha256": "1ef3ca9d3c8e126c2d368c85ffdc15d8e2422452f8ca37efe539acd05abdeadd",
-    "sha1": "f91ba3302af25e3478528c2f071edd047b0999a5",
+    "versao": "1.3.11",
+    "version": "1.3.11",
+    "url": "https://github.com/jejeposao/blacklotus-launcher/releases/download/v1.3.11/BlackLotusLauncher.exe",
+    "sha256": "e29d6ecbda113e30f5a7a342613b12f217087e4550057b050208a0ce45ec32bf",
+    "sha1": "158276495a79969577f1ac31494e708263031b5c",
     "obrigatoria": false,
-    "novidades": "Corrige o carregamento da biblioteca CmlLib.Core ao clicar em Jogar.",
+    "novidades": "Inclui o client 1.20.1 v1.4.6 com o logo corrigido, botão Mods duplicado removido, botões menores e tela inicial ajustada.",
     "notes": [
-      "Corrige o erro FileNotFoundException de CmlLib.Core.",
-      "O executável único extrai as dependências .NET necessárias."
+      "Inclui o client 1.20.1 v1.4.6 com o logo corrigido e sem o botão Mods duplicado.",
+      "Mantém o botão do Mod Menu e preserva o client 1.8.9 v1.3.4."
     ]
   },
   "clients": {
     "1.20.1": {
-      "version": "1.4.5",
-      "url": "https://github.com/jejeposao/blacklotus-launcher/releases/download/client-1.20.1-v1.4.5/blacklotus-client-1.4.5.jar",
-      "sha1": "8fb7e046a25f4e2c8c3e14d7dea96ce33de504bd",
-      "notes": "Redesign do menu de módulos com categorias laterais e cartões reorganizados."
+      "version": "1.4.6",
+      "url": "https://github.com/jejeposao/blacklotus-launcher/releases/download/client-1.20.1-v1.4.6/blacklotus-client-1.4.6.jar",
+      "sha1": "bd15a68608057e9e3ce94eb92b47108ac397a34a",
+      "sha256": "ab6f1a0fa3fb4d79557dcecf54184c71b5cf753f34c95f88a734484a5e068e02",
+      "notes": "Tela inicial revisada: removido o logo “Mod ID” e o botão Mods duplicado; botões menores, espaço reservado ao Mod Menu e fundo violeta mais discreto."
     },
     "1.8.9": {
       "version": "1.3.4",
