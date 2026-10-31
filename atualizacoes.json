@@ -1,17 +1,16 @@
 {
   "relay": "wss://blacklotus-relay.onrender.com",
   "launcher": {
-    "versao": "1.3.8",
-    "version": "1.3.8",
-    "url": "https://github.com/jejeposao/blacklotus-launcher/releases/download/v1.3.8/BlackLotusLauncher.exe",
-    "sha256": "b272ddd99416598fb4e44b4106700df3fd7fd3ebdeee039551ad233e6ffe9306",
-    "sha1": "05d5495cb8f872c996888ba94c03d7de484b710f",
+    "versao": "1.3.9",
+    "version": "1.3.9",
+    "url": "https://github.com/jejeposao/blacklotus-launcher/releases/download/v1.3.9/BlackLotusLauncher.exe",
+    "sha256": "1ef3ca9d3c8e126c2d368c85ffdc15d8e2422452f8ca37efe539acd05abdeadd",
+    "sha1": "f91ba3302af25e3478528c2f071edd047b0999a5",
     "obrigatoria": false,
-    "novidades": "Redesign visível do launcher com navegação lateral e tela inicial reorganizada.",
+    "novidades": "Corrige o carregamento da biblioteca CmlLib.Core ao clicar em Jogar.",
     "notes": [
-      "Barra lateral com Início, Profiles, Biblioteca de mods e Configurações.",
-      "Área principal reorganizada e botão Jogar redimensionado.",
-      "Corrige o erro de inicialização e registra a versão correta."
+      "Corrige o erro FileNotFoundException de CmlLib.Core.",
+      "O executável único extrai as dependências .NET necessárias."
     ]
   },
   "clients": {
