@@ -1,16 +1,17 @@
 {
   "relay": "wss://blacklotus-relay.onrender.com",
   "launcher": {
-    "versao": "1.3.15",
-    "version": "1.3.15",
-    "url": "https://github.com/jejeposao/blacklotus-launcher/releases/download/v1.3.15/BlackLotusLauncher.exe",
-    "sha256": "72ac9524e640b1417aeeddce2ea7c1d66011dca980b5e2250b60947cfe3e43d3",
-    "sha1": "4c9ddee1455cf04232f6746e5880508d4a51b349",
+    "versao": "1.3.16",
+    "version": "1.3.16",
+    "url": "https://github.com/jejeposao/blacklotus-launcher/releases/download/v1.3.16/BlackLotusLauncher.exe",
+    "sha256": "d89978b09843890f992fe98bf71a5463bcc58a04967a30463a4da85573e78606",
+    "sha1": "9c4298c70a2445d0ccf9a6417e4f66606ca0fd1f",
     "obrigatoria": false,
-    "novidades": "Versão corrigida: autenticação da plataforma BlackLotus.",
+    "novidades": "Versão corrigida: missões e comunidade.",
     "notes": [
-      "Corrigida a autenticação e gravação de sessão da plataforma.",
-      "Inclui botão para tentar novamente se a conexão falhar."
+      "Corrigida a barra de progresso das missões.",
+      "Corrigido recurso de cor ausente na tela da comunidade.",
+      "Caixas repetidas do mesmo erro são limitadas."
     ]
   },
   "clients": {
