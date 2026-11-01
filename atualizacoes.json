@@ -1,17 +1,18 @@
 {
   "relay": "wss://blacklotus-relay.onrender.com",
   "launcher": {
-    "versao": "1.3.20",
-    "version": "1.3.20",
-    "url": "https://github.com/jejeposao/blacklotus-launcher/releases/download/v1.3.20/BlackLotusLauncher.exe",
-    "sha256": "820f801c06ada7c0a09dda0eccc71d11e0851ae5e0709af4c0b204468b987de0",
-    "sha1": "aaa039cae3deccf523bc611f938cfd9b6a4e3928",
+    "versao": "1.3.21",
+    "version": "1.3.21",
+    "url": "https://github.com/jejeposao/blacklotus-launcher/releases/download/v1.19.Cr/BlackLotusLauncher.exe",
+    "sha256": "00832f1656cfa6d79d24970791b07bc023caeecef9cbc464db12d991c3ac3291",
+    "sha1": "511bd101bec7ffbeae91eca37dce73f15466400a",
     "obrigatoria": false,
-    "novidades": "Correção da Loja e Comunidade; client 1.20.1 com personagens nativos.",
+    "novidades": "v1.19.Cr — versão corrigida.",
     "notes": [
-      "Corrigida a falha que impedia abrir a plataforma, a loja e o painel de admin.",
-      "Incluídos os 35 personagens nativos no client 1.20.1."
-    ]
+      "Launcher atualizado para exibir v1.19.Cr.",
+      "Mantém a compatibilidade com o atualizador e inclui o client 1.20.1 v1.4.9."
+    ],
+    "label": "v1.19.Cr"
   },
   "clients": {
     "1.20.1": {
