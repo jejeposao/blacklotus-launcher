@@ -1,18 +1,17 @@
 {
   "relay": "wss://blacklotus-relay.onrender.com",
   "launcher": {
-    "versao": "1.3.12",
-    "version": "1.3.12",
-    "url": "https://github.com/jejeposao/blacklotus-launcher/releases/download/v1.3.12/BlackLotusLauncher.exe",
-    "sha256": "ed969b329f0943737e5e474c1b3dadd5a1b4f462f6ec8465f2bab23593ac8ca8",
-    "sha1": "98a77ab364f8c4d3539cd5cf0d064da8320b7c9b",
+    "versao": "1.3.13",
+    "version": "1.3.13",
+    "url": "https://github.com/jejeposao/blacklotus-launcher/releases/download/v1.3.13/BlackLotusLauncher.exe",
+    "sha256": "f9f5af4477cd29229fb096ee81be56c64a4d385efc06cf8ad18f7405caa3931c",
+    "sha1": "46fcb6263e2c0a841cfdb0fcac2787013f22d66f",
     "obrigatoria": false,
-    "novidades": "Plataforma BlackLotus: loja, inventário, amigos, chat, notificações, ranking, painel administrativo e integração de cosméticos nos clients.",
+    "novidades": "Plataforma BlackLotus integrada: loja, moedas, amigos, chat, notificações, ranking e painel administrativo; rank também nas Profiles.",
     "notes": [
-      "Loja Black Coins, inventário e histórico ligados ao servidor.",
-      "Amigos, chat privado, bloqueio, denúncias e notificações.",
-      "Ranking por tempo, administração e anúncios.",
-      "Cosméticos equipados aparecem nos clients Fabric 1.20.1 e Forge 1.8.9."
+      "Plataforma social conectada ao relay e PostgreSQL.",
+      "Rank de tempo aparece no ranking, lista de amigos, chat e Profiles.",
+      "Launcher contém os clients 1.20.1 v1.4.7 e 1.8.9 v1.3.5."
     ]
   },
   "clients": {
