@@ -1,18 +1,16 @@
 {
   "relay": "wss://blacklotus-relay.onrender.com",
   "launcher": {
-    "versao": "1.3.17",
-    "version": "1.3.17",
-    "url": "https://github.com/jejeposao/blacklotus-launcher/releases/download/v1.3.17/BlackLotusLauncher.exe",
-    "sha256": "9e7f2d6eed730225f079a3f6033f80fa435e1965d328159ad8328e4e24c0164a",
-    "sha1": "943db085da28e744e8b3027756382890b976d8e7",
+    "versao": "1.3.18",
+    "version": "1.3.18",
+    "url": "https://github.com/jejeposao/blacklotus-launcher/releases/download/v1.3.18/BlackLotusLauncher.exe",
+    "sha256": "3faafd9070a4d52789efea682f8d41807f3842f3d2f5629f9ff5435a259ffa32",
+    "sha1": "978420f9184c1875b20e4c739b1dea9b9a1ae47b",
     "obrigatoria": false,
-    "novidades": "Mega Update: painel administrativo e recursos sociais ampliados.",
+    "novidades": "Versão corrigida: carregamento da Loja e Comunidade.",
     "notes": [
-      "Painel administrativo com visão geral, auditoria e comandos protegidos por cargo.",
-      "Missões e ranks de tempo com validação no servidor.",
-      "Catálogo de cosméticos, inventário e sincronização visual nos clients.",
-      "Profiles com compartilhamento consentido no client 1.20.1."
+      "Corrigida a inicialização da comunidade quando a API retorna dados opcionais ausentes.",
+      "O log agora registra detalhes técnicos para facilitar o diagnóstico de falhas."
     ]
   },
   "clients": {
