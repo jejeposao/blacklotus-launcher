@@ -1,31 +1,34 @@
 {
   "relay": "wss://blacklotus-relay.onrender.com",
   "launcher": {
-    "versao": "1.3.11",
-    "version": "1.3.11",
-    "url": "https://github.com/jejeposao/blacklotus-launcher/releases/download/v1.3.11/BlackLotusLauncher.exe",
-    "sha256": "e29d6ecbda113e30f5a7a342613b12f217087e4550057b050208a0ce45ec32bf",
-    "sha1": "158276495a79969577f1ac31494e708263031b5c",
+    "versao": "1.3.12",
+    "version": "1.3.12",
+    "url": "https://github.com/jejeposao/blacklotus-launcher/releases/download/v1.3.12/BlackLotusLauncher.exe",
+    "sha256": "ed969b329f0943737e5e474c1b3dadd5a1b4f462f6ec8465f2bab23593ac8ca8",
+    "sha1": "98a77ab364f8c4d3539cd5cf0d064da8320b7c9b",
     "obrigatoria": false,
-    "novidades": "Inclui o client 1.20.1 v1.4.6 com o logo corrigido, botão Mods duplicado removido, botões menores e tela inicial ajustada.",
+    "novidades": "Plataforma BlackLotus: loja, inventário, amigos, chat, notificações, ranking, painel administrativo e integração de cosméticos nos clients.",
     "notes": [
-      "Inclui o client 1.20.1 v1.4.6 com o logo corrigido e sem o botão Mods duplicado.",
-      "Mantém o botão do Mod Menu e preserva o client 1.8.9 v1.3.4."
+      "Loja Black Coins, inventário e histórico ligados ao servidor.",
+      "Amigos, chat privado, bloqueio, denúncias e notificações.",
+      "Ranking por tempo, administração e anúncios.",
+      "Cosméticos equipados aparecem nos clients Fabric 1.20.1 e Forge 1.8.9."
     ]
   },
   "clients": {
     "1.20.1": {
-      "version": "1.4.6",
-      "url": "https://github.com/jejeposao/blacklotus-launcher/releases/download/client-1.20.1-v1.4.6/blacklotus-client-1.4.6.jar",
-      "sha1": "bd15a68608057e9e3ce94eb92b47108ac397a34a",
-      "sha256": "ab6f1a0fa3fb4d79557dcecf54184c71b5cf753f34c95f88a734484a5e068e02",
-      "notes": "Tela inicial revisada: removido o logo “Mod ID” e o botão Mods duplicado; botões menores, espaço reservado ao Mod Menu e fundo violeta mais discreto."
+      "version": "1.4.7",
+      "url": "https://github.com/jejeposao/blacklotus-launcher/releases/download/client-1.20.1-v1.4.7/blacklotus-client-1.4.7.jar",
+      "sha1": "0bbdc9a64981c9381931f3cd97e8dedaea74c4cf",
+      "notes": "Sincronização de tempo de jogo e renderização de cosméticos sociais.",
+      "sha256": "b2f552b5a0f260c05b0c5948cb01895cf8cdd09f895bdfeb27ad50b0ed8c1dbc"
     },
     "1.8.9": {
-      "version": "1.3.4",
-      "url": "https://github.com/jejeposao/blacklotus-launcher/releases/download/client-1.8.9-v1.3.4/blacklotus-client-1.8.9-1.3.4.jar",
-      "sha1": "adcba457262ca2833c0961a0a32a0cb8760e1c3f",
-      "notes": "Modo Evento, culling de jogadores atrás de blocos e Preset Evento."
+      "version": "1.3.5",
+      "url": "https://github.com/jejeposao/blacklotus-launcher/releases/download/client-1.8.9-v1.3.5/blacklotus-client-1.8.9-1.3.5.jar",
+      "sha1": "7a4e9f18ef966ebc346392d808b478f0929896a6",
+      "notes": "Sincronização de tempo de jogo e renderização de cosméticos sociais.",
+      "sha256": "f9be82ce3777af62a94a65777ebf12cf040732b4345000fbf8dee1f5d6d7659e"
     }
   }
 }
