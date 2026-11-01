@@ -1,16 +1,17 @@
 {
   "relay": "wss://blacklotus-relay.onrender.com",
   "launcher": {
-    "versao": "1.3.18",
-    "version": "1.3.18",
-    "url": "https://github.com/jejeposao/blacklotus-launcher/releases/download/v1.3.18/BlackLotusLauncher.exe",
-    "sha256": "3faafd9070a4d52789efea682f8d41807f3842f3d2f5629f9ff5435a259ffa32",
-    "sha1": "978420f9184c1875b20e4c739b1dea9b9a1ae47b",
+    "versao": "1.3.19",
+    "version": "1.3.19",
+    "url": "https://github.com/jejeposao/blacklotus-launcher/releases/download/v1.3.19/BlackLotusLauncher.exe",
+    "sha256": "a0b20481b75ea099eab63c917f72684bff16b6c5e97f8cbe07b9da2f15dc43f5",
+    "sha1": "73b74957fecc18dd68d2052e6d55d9d1fbeea6aa",
     "obrigatoria": false,
-    "novidades": "Versão corrigida: carregamento da Loja e Comunidade.",
+    "novidades": "Correção: atualização repetida e carregamento da comunidade.",
     "notes": [
-      "Corrigida a inicialização da comunidade quando a API retorna dados opcionais ausentes.",
-      "O log agora registra detalhes técnicos para facilitar o diagnóstico de falhas."
+      "O launcher agora identifica sua versão pelo próprio executável, sem repetir a mesma atualização.",
+      "Corrigido o erro de referência nula ao abrir Loja e Comunidade.",
+      "O log registra a pilha completa para diagnóstico."
     ]
   },
   "clients": {
