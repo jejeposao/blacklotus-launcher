@@ -1,33 +1,34 @@
 {
   "relay": "wss://blacklotus-relay.onrender.com",
   "launcher": {
-    "versao": "1.3.16",
-    "version": "1.3.16",
-    "url": "https://github.com/jejeposao/blacklotus-launcher/releases/download/v1.3.16/BlackLotusLauncher.exe",
-    "sha256": "d89978b09843890f992fe98bf71a5463bcc58a04967a30463a4da85573e78606",
-    "sha1": "9c4298c70a2445d0ccf9a6417e4f66606ca0fd1f",
+    "versao": "1.3.17",
+    "version": "1.3.17",
+    "url": "https://github.com/jejeposao/blacklotus-launcher/releases/download/v1.3.17/BlackLotusLauncher.exe",
+    "sha256": "9e7f2d6eed730225f079a3f6033f80fa435e1965d328159ad8328e4e24c0164a",
+    "sha1": "943db085da28e744e8b3027756382890b976d8e7",
     "obrigatoria": false,
-    "novidades": "Versão corrigida: missões e comunidade.",
+    "novidades": "Mega Update: painel administrativo e recursos sociais ampliados.",
     "notes": [
-      "Corrigida a barra de progresso das missões.",
-      "Corrigido recurso de cor ausente na tela da comunidade.",
-      "Caixas repetidas do mesmo erro são limitadas."
+      "Painel administrativo com visão geral, auditoria e comandos protegidos por cargo.",
+      "Missões e ranks de tempo com validação no servidor.",
+      "Catálogo de cosméticos, inventário e sincronização visual nos clients.",
+      "Profiles com compartilhamento consentido no client 1.20.1."
     ]
   },
   "clients": {
     "1.20.1": {
-      "version": "1.4.7",
-      "url": "https://github.com/jejeposao/blacklotus-launcher/releases/download/client-1.20.1-v1.4.7/blacklotus-client-1.4.7.jar",
-      "sha1": "0bbdc9a64981c9381931f3cd97e8dedaea74c4cf",
-      "notes": "Sincronização de tempo de jogo e renderização de cosméticos sociais.",
-      "sha256": "b2f552b5a0f260c05b0c5948cb01895cf8cdd09f895bdfeb27ad50b0ed8c1dbc"
+      "version": "1.4.8",
+      "url": "https://github.com/jejeposao/blacklotus-launcher/releases/download/v1.3.17/blacklotus-client-1.4.8.jar",
+      "sha1": "de18894c3251505dd969f08c925a6e07dbd3a905",
+      "notes": "Perfis locais, Profiles Membros com consentimento e sincronização de cosméticos.",
+      "sha256": "e2c01f307fedb5cb6048149c79fd552b296a5f5e7e28b57cbf56ea4996c9480b"
     },
     "1.8.9": {
-      "version": "1.3.5",
-      "url": "https://github.com/jejeposao/blacklotus-launcher/releases/download/client-1.8.9-v1.3.5/blacklotus-client-1.8.9-1.3.5.jar",
-      "sha1": "7a4e9f18ef966ebc346392d808b478f0929896a6",
-      "notes": "Sincronização de tempo de jogo e renderização de cosméticos sociais.",
-      "sha256": "f9be82ce3777af62a94a65777ebf12cf040732b4345000fbf8dee1f5d6d7659e"
+      "version": "1.3.6",
+      "url": "https://github.com/jejeposao/blacklotus-launcher/releases/download/v1.3.17/blacklotus-client-1.8.9-1.3.6.jar",
+      "sha1": "da8e0e90051aa5716aa4a5a5f89952d2f7bc1ddf",
+      "notes": "Perfis locais e sincronização visual de cosméticos e tempo de jogo.",
+      "sha256": "4786d1874e3bdecd52e47bd614fca5e368608927d9f06de51da3f7a01f5fd653"
     }
   }
 }
