@@ -1,20 +1,20 @@
 {
   "relay": "wss://blacklotus-relay.onrender.com",
   "launcher": {
-    "versao": "1.3.22",
-    "version": "1.3.22",
-    "url": "https://github.com/jejeposao/blacklotus-launcher/releases/download/v1.19.Cr2/BlackLotusLauncher.exe",
-    "sha256": "6953880347af119099c8764cf5db72a71ee62a4d00b5d2ec2b588edc1a17acaf",
-    "sha1": "bbb8bdc499b0d7b2b96a1a84b1a01e869e0eb61f",
+    "versao": "1.3.23",
+    "version": "1.3.23",
+    "url": "https://github.com/jejeposao/blacklotus-launcher/releases/download/v1.19.Cr3/BlackLotusLauncher.exe",
+    "sha256": "787581398458404e37fe9fbe026442b7dcb7820ddf7b84fb09288fd088c49aa0",
+    "sha1": "fa3538e02cf6742b861a2c2ac53d47ec3477ec1d",
     "obrigatoria": false,
-    "novidades": "Animações CRG e ajustes de interface",
+    "novidades": "Redesign premium do launcher",
     "notes": [
-      "Animações CRG para 1.20.1 e 1.8.9.",
-      "Color Saturation na 1.20.1.",
-      "Ajustes de menus; removido Restaurar HUD.",
-      "1.21.11 fica para uma atualização futura."
+      "Dashboard com sidebar e navegação reorganizada.",
+      "Hero visual e seletor compacto de versões.",
+      "Cards de sessão e botão JOGAR reposicionados.",
+      "Correções de compilação do launcher."
     ],
-    "label": "v1.19.Cr2"
+    "label": "v1.19.Cr3"
   },
   "clients": {
     "1.20.1": {
