@@ -25,11 +25,11 @@
       "notes": "Menu do client (Shift Direito) redesenhado: abas, busca, categorias, cards com switch e fonte suave."
     },
     "1.8.9": {
-      "version": "1.3.8",
-      "url": "https://github.com/jejeposao/blacklotus-launcher/releases/download/v1.19.Cr2/blacklotus-client-1.8.9-1.3.8.jar",
-      "sha1": "c5c31f1f7d8a6bf3b71e55288ca3579bb5f23483",
-      "notes": "Animações CRG: corações, câmera e itens com presets; ajustes de menus.",
-      "sha256": "7a124ae8ac699485d6801721d19c909a4d573a644d1a3d26823ca0549a9da4b6"
+      "version": "1.3.9",
+      "url": "https://github.com/jejeposao/blacklotus-launcher/releases/download/client-1.8.9-v1.3.9/blacklotus-client-1.8.9-1.3.9.jar",
+      "sha1": "5e89921898f8a40c3af90e6e697ae4e0921cdd70",
+      "notes": "Menu do client (Shift Direito) redesenhado: abas, busca, categorias, cards com switch e fonte suave.",
+      "sha256": "3b7b6a2fba034606d4da11012081737d2486dc9c663f83e099c046d580a66a25"
     }
   }
 }
