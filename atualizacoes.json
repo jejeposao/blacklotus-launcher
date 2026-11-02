@@ -23,11 +23,11 @@
       "sha256": "9bd81b1fbcdbf359c8fb343cbc94736e9c2f8c16ed92e2b265152ecbb27282d3"
     },
     "1.8.9": {
-      "version": "1.3.6",
-      "url": "https://github.com/jejeposao/blacklotus-launcher/releases/download/v1.3.17/blacklotus-client-1.8.9-1.3.6.jar",
-      "sha1": "da8e0e90051aa5716aa4a5a5f89952d2f7bc1ddf",
-      "notes": "Perfis locais e sincronização visual de cosméticos e tempo de jogo.",
-      "sha256": "4786d1874e3bdecd52e47bd614fca5e368608927d9f06de51da3f7a01f5fd653"
+      "version": "1.3.7",
+      "url": "https://github.com/jejeposao/blacklotus-launcher/releases/download/client-1.8.9-v1.3.7/blacklotus-client-1.8.9-1.3.7.jar",
+      "sha1": "4a8441e0641d1cb9d716fe486125913c70c78e94",
+      "notes": "Color Saturation, ajustes visuais Dark Neon, FPS Boost EXTREMO opcional, Dadinho/Gelatina e Profiles.",
+      "sha256": "550d6701ccf388c874e0fe8c63a28f58a6a7041df31ebdad47e4454f02f467af"
     }
   }
 }
