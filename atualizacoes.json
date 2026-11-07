@@ -1,34 +1,35 @@
 {
   "relay": "wss://blacklotus-relay.onrender.com",
   "launcher": {
-    "versao": "1.3.25",
-    "version": "1.3.25",
-    "url": "https://github.com/jejeposao/blacklotus-launcher/releases/download/v1.3.25/BlackLotusLauncher.exe",
-    "sha256": "1ec666eae2ea616d97dab3f9a9da1fa3bf8d4cf44b9583be078ab82bd60be791",
-    "sha1": "2671a150b933e047f11ea82ac8753ec4b44eb6e9",
+    "versao": "1.3.26",
+    "version": "1.3.26",
+    "url": "https://github.com/jejeposao/blacklotus-launcher/releases/download/v1.3.26/BlackLotusLauncher.exe",
+    "sha256": "ac6d19603358dd27ed1a29fbf3164dbf155237cd8512dcae099cfc4ef984b561",
+    "sha1": "e7ed47d114753db4990f885a3dfe6128f3b4fc5a",
     "obrigatoria": false,
-    "novidades": "Loja, Amigos, Missões e Profiles voltam a carregar: o launcher espera o servidor acordar (até ~1 min).\nA sessão BlackLotus renova sozinha quando vence.\nSe der erro, aparece o motivo real com o botão Tentar novamente (e fica salvo em launcher.log).",
+    "novidades": "Abre o jogo mais rápido: o JOGAR não espera mais o servidor da plataforma social.\nA checagem dos mods no Modrinth espera menos (1,5 s).\nModernFix com mais uma otimização de abertura ligada.\nClient 1.8.9 1.3.10 com o PvP Coach e client 1.20.1 1.4.14 já vêm dentro do launcher.",
     "notes": [
-      "Loja, Amigos, Missões e Profiles voltam a carregar: o launcher espera o servidor acordar (até ~1 min).",
-      "A sessão BlackLotus renova sozinha quando vence.",
-      "Se der erro, aparece o motivo real com o botão Tentar novamente (e fica salvo em launcher.log)."
+      "Abre o jogo mais rápido: o JOGAR não espera mais o servidor da plataforma social.",
+      "A checagem dos mods no Modrinth espera menos (1,5 s).",
+      "ModernFix com mais uma otimização de abertura ligada.",
+      "Client 1.8.9 1.3.10 com o PvP Coach e client 1.20.1 1.4.14 já vêm dentro do launcher."
     ],
-    "label": "v1.3.25"
+    "label": "v1.3.26"
   },
   "clients": {
     "1.20.1": {
-      "version": "1.4.13",
-      "url": "https://github.com/jejeposao/blacklotus-launcher/releases/download/client-1.20.1-v1.4.13/blacklotus-client-1.4.13.jar",
-      "sha1": "4ee148064a3fb82e4fc64ef5f6887892bafe46d0",
-      "sha256": "311534e85627fb30f95b86eace8bd105c7bd5208b2d16c596afac11093a319bb",
-      "notes": "PvP Inspector: medição de reach corrigida, com menos falsos alertas (só avisa por padrão de hits)."
+      "version": "1.4.14",
+      "url": "https://github.com/jejeposao/blacklotus-launcher/releases/download/client-1.20.1-v1.4.14/blacklotus-client-1.4.14.jar",
+      "sha1": "ba284607215c7938330a5b2015c1abe24a8a01d4",
+      "sha256": "adefec17ff0366ea653e254bcaad537ea914ece735e1c18b14ef27edd5bc9ecb",
+      "notes": "Abertura: o log mostra quando a janela começa a abrir e se o cache de classes do Java foi usado."
     },
     "1.8.9": {
-      "version": "1.3.9",
-      "url": "https://github.com/jejeposao/blacklotus-launcher/releases/download/client-1.8.9-v1.3.9/blacklotus-client-1.8.9-1.3.9.jar",
-      "sha1": "5e89921898f8a40c3af90e6e697ae4e0921cdd70",
-      "notes": "Menu do client (Shift Direito) redesenhado: abas, busca, categorias, cards com switch e fonte suave.",
-      "sha256": "3b7b6a2fba034606d4da11012081737d2486dc9c663f83e099c046d580a66a25"
+      "version": "1.3.10",
+      "url": "https://github.com/jejeposao/blacklotus-launcher/releases/download/client-1.8.9-v1.3.10/blacklotus-client-1.8.9-1.3.10.jar",
+      "sha1": "9e9a5ea1298ec0ae0585bc204a82ce107d79279e",
+      "sha256": "50349e3497ee0a0ea44114869540c7daccc816ed9acbd967f8f9141fbf5bf6dd",
+      "notes": "Novo PvP Coach: mede suas lutas, mostra o que melhorar e tem Escada de FPS e rotina de treino (comando .coach)."
     }
   }
 }
