@@ -17,11 +17,11 @@
   },
   "clients": {
     "1.20.1": {
-      "version": "1.4.12",
-      "url": "https://github.com/jejeposao/blacklotus-launcher/releases/download/client-1.20.1-v1.4.12/blacklotus-client-1.4.12.jar",
-      "sha1": "3fdeff5f60dd4aef9da47a4acddbbbf96cedbb82",
-      "sha256": "5aaad18d94dd54ef64335cdddde10027e98c62e0b6065371282830dbc854da08",
-      "notes": "Novo módulo PvP Inspector: painel de logs com pistas de reach e KB (só observa)."
+      "version": "1.4.13",
+      "url": "https://github.com/jejeposao/blacklotus-launcher/releases/download/client-1.20.1-v1.4.13/blacklotus-client-1.4.13.jar",
+      "sha1": "4ee148064a3fb82e4fc64ef5f6887892bafe46d0",
+      "sha256": "311534e85627fb30f95b86eace8bd105c7bd5208b2d16c596afac11093a319bb",
+      "notes": "PvP Inspector: medição de reach corrigida, com menos falsos alertas (só avisa por padrão de hits)."
     },
     "1.8.9": {
       "version": "1.3.9",
