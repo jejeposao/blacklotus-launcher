@@ -1,35 +1,40 @@
 {
   "relay": "wss://blacklotus-relay.onrender.com",
   "launcher": {
-    "versao": "1.3.27",
-    "version": "1.3.27",
-    "url": "https://github.com/jejeposao/blacklotus-launcher/releases/download/v1.3.27/BlackLotusLauncher.exe",
-    "sha256": "ed3523e3b10ca89f7f1f6d521fd4ebbe637421b709dda9bac28cfd9add49e6f3",
-    "sha1": "5299dd40e796b98ba26a8ddf4186d417e5cda511",
+    "versao": "1.3.28",
+    "version": "1.3.28",
+    "url": "https://github.com/jejeposao/blacklotus-launcher/releases/download/v1.3.28/BlackLotusLauncher.exe",
+    "sha256": "40ef45aa52af4a63a43c9e663deebc95082f6a0b3cbdd33f096b717265f4943c",
+    "sha1": "5a4957513f62722b82fc1259d5ae441e25723047",
     "obrigatoria": false,
-    "novidades": "1.20.1 com Java 21 e ZGC (quase sem travadas do coletor de lixo); se der erro, volta sozinho pro Java 17.\nColetor de lixo com pausas menores nas duas versões e 4 GB de RAM por padrão (novas instalações).\nCache das classes do Java para abrir um pouco mais rápido.\nClients 1.20.1 1.4.15 e 1.8.9 1.3.11 com o mega update de desempenho.",
+    "novidades": "Nova versão 1.21.11 · Fabric (beta) na Home, com instalação automática e os mods de desempenho.\nFOV Changer nos clients 1.20.1 1.4.16 e 1.8.9 1.3.12.",
     "notes": [
-      "1.20.1 com Java 21 e ZGC (quase sem travadas do coletor de lixo); se der erro, volta sozinho pro Java 17.",
-      "Coletor de lixo com pausas menores nas duas versões e 4 GB de RAM por padrão (novas instalações).",
-      "Cache das classes do Java para abrir um pouco mais rápido.",
-      "Clients 1.20.1 1.4.15 e 1.8.9 1.3.11 com o mega update de desempenho."
+      "Nova versão 1.21.11 · Fabric (beta) na Home, com instalação automática e os mods de desempenho.",
+      "FOV Changer nos clients 1.20.1 1.4.16 e 1.8.9 1.3.12."
     ],
-    "label": "v1.3.27"
+    "label": "v1.3.28"
   },
   "clients": {
     "1.20.1": {
-      "version": "1.4.15",
-      "url": "https://github.com/jejeposao/blacklotus-launcher/releases/download/client-1.20.1-v1.4.15/blacklotus-client-1.4.15.jar",
-      "sha1": "22a6c1ef39f9fe12670451d2178641f696d3055b",
-      "sha256": "cc14bdc3758496b8e6148978a8e8d7808cc87cd4e3c5ef0c10d32f182fffedcc",
-      "notes": "Desempenho: detector de travadas, LOD dos jogadores longe, menos partículas/nametags/sombras em lugar cheio e personagens carregados fora do jogo."
+      "version": "1.4.16",
+      "url": "https://github.com/jejeposao/blacklotus-launcher/releases/download/client-1.20.1-v1.4.16/blacklotus-client-1.4.16.jar",
+      "sha1": "6ad422ec3ea03de530a8f2d875f7a367baa190ee",
+      "sha256": "2b88f0620b5f326e5026425972a4a3b8e281ca92cd4d16d80e7686fde54a7222",
+      "notes": "Novo módulo FOV Changer (Visual): FOV normal, correndo e voando, com a animação suave do jogo."
+    },
+    "1.21.11": {
+      "version": "1.0.0",
+      "url": "https://github.com/jejeposao/blacklotus-launcher/releases/download/client-1.21.11-v1.0.0/blacklotus-client-1.21.11-1.0.0.jar",
+      "sha1": "37f9e2647a1b3e710bb52ca7875949b4012a4a08",
+      "sha256": "135a9b9598c5473c3755469457fc95954ee5a967f4f86464cbbae7cff7f4188d",
+      "notes": "Primeira versão na 1.21.11 (beta): HUD, menu, PvP, chat, Modo Evento e FOV Changer."
     },
     "1.8.9": {
-      "version": "1.3.11",
-      "url": "https://github.com/jejeposao/blacklotus-launcher/releases/download/client-1.8.9-v1.3.11/blacklotus-client-1.8.9-1.3.11.jar",
-      "sha1": "4acdccb7fbfae45f420a55a83e78c139ae13a1ee",
-      "sha256": "ca00562350ce4bb2df52262b876be33d983cd7c33f173ec8b97f3ab3a6b57bc6",
-      "notes": "Desempenho: detector de travadas, LOD dos jogadores longe, menos partículas/nametags/sombras em lugar cheio e config salva fora do jogo."
+      "version": "1.3.12",
+      "url": "https://github.com/jejeposao/blacklotus-launcher/releases/download/client-1.8.9-v1.3.12/blacklotus-client-1.8.9-1.3.12.jar",
+      "sha1": "be1c792e344988f91d09f68a8b6e20a6444b2e08",
+      "sha256": "ae6a56639e7ddee0477fc3c10e0036f3eacd93e391ff3d8ac63f45c2b1bae81f",
+      "notes": "Novo módulo FOV Changer (Visual): FOV normal, correndo e voando, com a animação suave do jogo."
     }
   }
 }
